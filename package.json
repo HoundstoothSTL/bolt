@@ -1,0 +1,35 @@
+{
+  "name": "Bolt",
+  "description": "Bolt starter theme for Houndstooth development",
+  "version": "0.1.0",
+  "author": "Houndstooth (http://madebyhoundstooth.com)",
+  "homepage": "http://madebyhoundstooth.com/bolt",
+  "tags": "starter, development, skeleton, stripped, build, scaffold",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HoundstoothSTL/bolt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HoundstoothSTL/bolt/issues"
+  },
+  "licenses": [
+    {
+      "type": "NA",
+      "url": "https://github.com/HoundstoothSTL/bolt/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "0.4.0rc5",
+    "grunt-contrib-compass": "git://github.com/gruntjs/grunt-contrib-compass.git",
+    "grunt-contrib-copy": "https://github.com/ctalkington/grunt-contrib-copy/archive/patch4.tar.gz",
+    "grunt-contrib-concat": "git://github.com/gruntjs/grunt-contrib-concat.git",
+    "grunt-contrib-jshint": "git://github.com/gruntjs/grunt-contrib-jshint.git",
+    "grunt-contrib-watch": "git://github.com/gruntjs/grunt-contrib-watch.git",
+    "grunt-contrib-uglify": "git://github.com/gruntjs/grunt-contrib-uglify.git",
+    "bower": "~0.6.8",
+    "grunt-contrib-mincss": "git://github.com/gruntjs/grunt-contrib-mincss.git",
+    "grunt-contrib-imagemin": "git://github.com/gruntjs/grunt-contrib-imagemin.git",
+    "grunt-contrib-clean": "git://github.com/gruntjs/grunt-contrib-clean.git"
+  }
+}

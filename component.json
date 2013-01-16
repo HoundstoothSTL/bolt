@@ -1,0 +1,11 @@
+{
+  "name": "Bolt",
+  "version": "1.0.0",
+  "main": "./scripts/app.js",
+  "dependencies": {
+    "jquery": "latest",
+    "modernizr": "latest",
+    "compass-twitter-bootstrap": "https://github.com/vwall/compass-twitter-bootstrap.git",
+    "flexslider": "latest"
+  }
+}
